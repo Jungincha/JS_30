@@ -65,5 +65,5 @@ keyCode: 65
 ```
 
 ### What I've made from this challenge
-Sponge bob drum kit
-![alt text](https://github.com/Jungincha/JS_30/issues/1)
+Sponge bob drum kit<br>
+![alt text](https://user-images.githubusercontent.com/47588349/69106458-bf1c1800-0ab1-11ea-803d-e82ee7c647ac.png)
