@@ -66,4 +66,5 @@ keyCode: 65
 
 ### What I've made from this challenge
 Sponge bob drum kit<br>
+\(Character from Sponge bob pops up and disappear when the key is down\)
 ![alt text](https://user-images.githubusercontent.com/47588349/69106458-bf1c1800-0ab1-11ea-803d-e82ee7c647ac.png)
