@@ -4,9 +4,8 @@
 Declares a custom property. It is very useful when it contains values that are reused
 
 #### How to declare
-
-```js
 USE `--`
+```js
 ELEMENT_OR_CLASS {
   --basic-color: blue;
 }
@@ -28,7 +27,7 @@ It is the root element of the document. Meaning `html` selector but higher
   background: pink;
 }
 ```
-2. You can set grobal CSS property using CSS variables
+2. You can set global CSS property using CSS variables
 ```js
 :root {
   --base-fontsize: 10px;
