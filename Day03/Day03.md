@@ -27,7 +27,7 @@ It is the root element of the document. Meaning `html` selector but higher
   background: pink;
 }
 ```
-2. You can set grobal CSS property using CSS variables
+2. You can set global CSS property using CSS variables
 ```js
 :root {
   --base-fontsize: 10px;
